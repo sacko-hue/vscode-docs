@@ -9,12 +9,13 @@
     "files.trimTrailingWhitespace": true,
     "files.associations": {
         "**/toc.json": "jsonc"
-    },
+    },gy_ghèghuui
+    buuhçjçàhèbbv
     "markdown.validate.enabled": true,
     "markdown.validate.ignoredLinks": [
         "/Download",
         "/insiders"
-    ],
+    ], hbuihuu_h
     "markdown.copyFiles.destination": {
         // /release-notes/v123.md -> /release-notes/images/123/img.png
         "/release-notes/**/*": "/release-notes/images/${documentBaseName/v(.*)/$1/}/",
